@@ -12,14 +12,23 @@ When I'm not deep in security tools, I mentor junior CS students and help them f
 
 ---
 
+### **Currently Building — Voxlit**
+Privacy-first, open-source macOS voice dictation. Press a hotkey, speak, and the transcript lands in whatever app is focused — all processed locally via bundled whisper.cpp, with optional opt-in cloud transcription.
+
+- **Stack:** TypeScript, React, Electron, Swift (native helper), whisper.cpp, SQLite + Drizzle
+- **Why:** Dictation shouldn't mean shipping your voice to someone else's server
+- **Focus:** Offline-by-default, auditable IPC boundary, universal macOS binary
+
+---
+
 ### **Tools & Tech**
-- Python, Java, JavaScript, SQL
+- Python, Java, JavaScript, TypeScript, SQL
 - Burp Suite, Wireshark, Nmap, Packet Tracer
-- Linux, Git, Docker, React
+- Linux, Git, Docker, React, Electron
 
 ---
 ### **A Bit About Me**
 - 🍵 Just a coffee person
 - 🎴 Into anime — Demon Slayer is a favorite
 - 🧱 I like building things that are simple, useful, and easy to understand
-- 🌎 Like to watch Geopolities like Netflix
+- 🌎 Like to watch Geopolitics like Netflix
