@@ -13,7 +13,11 @@ When I'm not deep in security tools, I mentor junior CS students and help them f
 ---
 
 ### **Currently Building — Voxlit**
-Privacy-first, open-source macOS voice dictation. Press a hotkey, speak, and the transcript lands in whatever app is focused — all processed locally via bundled whisper.cpp, with optional opt-in cloud transcription.
+Privacy-first, open-source macOS voice dictation. Press a hotkey, speak, and the transcript lands in whatever app is focused. Runs locally via bundled whisper.cpp, with optional Voxlit Cloud for higher accuracy (free during beta, no API key).
+
+Also ships with **Voxlit Agent**, a voice-to-action layer. Say *"Hey Voxlit"* followed by a command ("write an email declining this meeting", "generate a commit message for dark mode support", "summarize this") and the result gets pasted directly into your focused app. 25+ built-in skills.
+
+🔗 [voxlit.co](https://voxlit.co) · [GitHub](https://github.com/rajdeepchaudhari-work/voxlit)
 
 ---
 
