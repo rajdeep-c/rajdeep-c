@@ -18,6 +18,11 @@ Privacy-first macOS voice dictation and voice-to-action tooling powered by local
 
 🔗 [voxlit.co](https://voxlit.co)
 
+### Webnite
+Game-based cybersecurity training platform for CompTIA Security+ with story-driven lessons, minigames, and live Arena battles.
+
+🔗 [webnite.app](https://webnite.app)
+
 ### EagerHQ
 UK software studio building focused AI products, real-time tools, and interactive learning platforms.
 
