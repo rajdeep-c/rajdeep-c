@@ -1,34 +1,41 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I lost access to my last profile. So starting fresh, best me luck. Here is some bit about me.
+I'm Rajdeep — a security-minded full-stack engineer based in London, building AI products, developer tools, and scalable web systems.
+
+Currently finishing my Computer Science degree at the University of East London with First Class Honours. Interested in cybersecurity, system architecture, and product engineering.
 
 ---
 
-I'm Rajdeep, a cybersecurity student obsessed with breaking things down and building defences that actually hold.
+## 🚀 Currently Building
 
-Based in London, finishing my CS degree at UEL with First Class Honours. I care about understanding how systems fail — and making sure they don't. Currently working toward becoming an ISC2 certified SOC analyst, with certs in ethical hacking and blockchain already under my belt.
+### Penshift
+AI writing workbench with 7 tools built using Next.js, React, TypeScript, streaming APIs, Stripe, and Clerk.
 
-When I'm not deep in security tools, I mentor junior CS students and help them figure out where they fit in tech.
+🔗 [penshift.app](https://penshift.app)
+
+### Voxlit
+Privacy-first macOS voice dictation and voice-to-action tooling powered by local AI inference.
+
+🔗 [voxlit.co](https://voxlit.co)
+
+### EagerHQ
+UK software studio building focused AI products, real-time tools, and interactive learning platforms.
+
+🔗 [eagerhq.com](https://eagerhq.com)
+
+---
+
+## 🛠️ Tech
+TypeScript • JavaScript • Python • React • Next.js • Node.js • Tailwind • Docker • Linux • Burp Suite • Wireshark
 
 ---
 
-### **Currently Building — Voxlit**
-Privacy-first, open-source macOS voice dictation. Press a hotkey, speak, and the transcript lands in whatever app is focused. Runs locally via bundled whisper.cpp, with optional Voxlit Cloud for higher accuracy (free during beta, no API key).
-
-Also ships with **Voxlit Agent**, a voice-to-action layer. Say *"Hey Voxlit"* followed by a command ("write an email declining this meeting", "generate a commit message for dark mode support", "summarize this") and the result gets pasted directly into your focused app. 25+ built-in skills.
-
-🔗 [voxlit.co](https://voxlit.co) · [GitHub](https://github.com/rajdeepchaudhari-work/voxlit)
+## 📚 Interests
+Application Security • DevSecOps • AI Infrastructure • System Architecture • Privacy-first Software
 
 ---
 
-### **Tools & Tech**
-- Python, Java, JavaScript, TypeScript, SQL
-- Burp Suite, Wireshark, Nmap, Packet Tracer
-- Linux, Git, Docker, React, Electron
-
----
-### **A Bit About Me**
-- 🍵 Just a coffee person
-- 🎴 Into anime — Demon Slayer is a favorite
-- 🧱 I like building things that are simple, useful, and easy to understand
-- 🌎 Like to watch Geopolitics like Netflix
+🍵 Coffee person  
+🎴 Demon Slayer fan  
+🌎 Geopolitics addict  
+🧱 I like building things that feel simple and useful
