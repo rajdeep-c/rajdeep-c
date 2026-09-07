@@ -8,11 +8,6 @@ Currently finishing my Computer Science degree at the University of East London 
 
 ## 🚀 Currently Building
 
-### Penshift
-AI writing workbench with 7 tools built using Next.js, React, TypeScript, streaming APIs, Stripe, and Clerk.
-
-🔗 [penshift.app](https://penshift.app)
-
 ### Voxlit
 Privacy-first macOS voice dictation and voice-to-action tooling powered by local AI inference.
 
